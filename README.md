@@ -1,6 +1,4 @@
 
-markdown
-Copy code
 # Customer Retention using Fetch.ai Agents and Machine Learning
 
 This repository demonstrates how to integrate a machine learning model with Fetch.ai autonomous agents to make real-time customer-centric decisions. By embedding a customer churn prediction model into these agents, the system can identify potential churners and take proactive measures to retain them. 
