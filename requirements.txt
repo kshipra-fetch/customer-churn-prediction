@@ -1,0 +1,6 @@
+uagents==0.17.1
+tensorflow==2.16.2
+pandas==2.2.3
+joblib==1.4.2
+openai==1.54.1
+requests==2.32.3
